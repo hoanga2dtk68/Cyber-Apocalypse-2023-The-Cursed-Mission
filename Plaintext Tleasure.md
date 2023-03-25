@@ -6,3 +6,4 @@ khi vừa mở lên mình đã thấy rất nhiều phương thức GET ở đâ
 * Trong giao thức HTTP, phương thức GET được sử dụng để lấy thông tin từ một nguồn tài nguyên trên máy chủ web. Khi một yêu cầu GET được gửi đến máy chủ, máy chủ sẽ trả về nội dung của tài nguyên được yêu cầu trong phần thân của phản hồi HTTP. Phương thức GET có thể được sử dụng để lấy các tài liệu HTML, CSS, JavaScript, hình ảnh và các loại tệp khác từ máy chủ web.
 Thử grep tất cả các file xem có file nào chứa flag không khá bất ngờ là lấy được flag luôn
 ![image](https://user-images.githubusercontent.com/110059218/227737394-35d5818a-a2d4-4618-a517-08c4cf062f2f.png)
+flag: HTB{th3s3_4l13ns_st1ll_us3_HTTP}
